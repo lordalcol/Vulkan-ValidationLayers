@@ -11,11 +11,11 @@
         },
         {
             "name": "Vulkan-Utility-Libraries",
-            "url": "https://github.com/KhronosGroup/Vulkan-Utility-Libraries.git",
+            "url": "https://github.com/lordalcol/Vulkan-Utility-Libraries.git",
             "sub_dir": "Vulkan-Utility-Libraries",
             "build_dir": "Vulkan-Utility-Libraries/build",
             "install_dir": "Vulkan-Utility-Libraries/build/install",
-            "commit": "f9158f3ed3d0c0ebd0fc1078ea36e082d8caf35e",
+            "commit": "3568847a2318184eb9c24e583136ffcee4180e48",
             "deps": [
                 {
                     "var_name": "VULKAN_HEADERS_INSTALL_DIR",
